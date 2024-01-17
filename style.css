@@ -12,6 +12,7 @@ body {
   font-size: 18px;
   font-weight: 400;
   background: #000;
+  /* background: linear-gradient(to right, #8c55ce, #39aaaa, #0bd695); */
   color: #fff;
 }
 @font-face {
@@ -315,7 +316,8 @@ nav {
 /*==== sticky-nev start=== */
 
 .fixed-menu {
-  background: rgba(0, 0, 0, 0.767);
+  /* background: rgba(0, 0, 0, 0.767); */
+  background: linear-gradient(to right, #8c55ce, #39aaaa, #0bd695);
   position: fixed;
   top: 0;
   -webkit-animation: slide-down 0.5s !important;
@@ -577,7 +579,7 @@ nav {
 
 .about-area {
   padding: 140px 0;
-  background: #000;
+  /* background: #000; */
 }
 
 .max-abouts {
@@ -609,7 +611,7 @@ nav {
 
 .tokenomics-area {
   padding: 62px 0 110px;
-  background: #0a0a0a;
+  /* background: #0a0a0a; */
 }
 
 .tokenomic-title h2 {
@@ -696,7 +698,7 @@ nav {
 .token-right {
   border: 1px solid rgba(255, 255, 255, 0);
   background: rgba(255, 255, 255, 0.03);
-  padding: 72px 80px 80px 80px;
+  padding: 0px 80px 80px 80px;
   display: flex;
 }
 
@@ -757,7 +759,7 @@ nav {
 
 .our-roadmap-area {
   padding: 70px 0;
-  background: #0a0a0a;
+  /* background: #0a0a0a; */
   /* position: relative; */
 }
 
@@ -904,20 +906,15 @@ nav {
   background-repeat: no-repeat;
   background-position: center 400px;
   height: 1500px;
-  background-color: #0a0a0a;
+  /* background-color: #0a0a0a; */
   /* position: relative; */
 }
 
 .disclaimer-wrapper {
   padding: 22px;
   border-radius: 10px;
-  background: rgb(255, 228, 35);
-  background: linear-gradient(
-    176deg,
-    rgba(255, 228, 35, 1) 0%,
-    rgba(255, 130, 37, 1) 51%,
-    rgba(255, 53, 39, 1) 100%
-  );
+  /* background: rgb(255, 228, 35); */
+  background: linear-gradient(to right, #8c55ce, #39aaaa, #0bd695);
   margin-top: 150px;
 }
 .disclaimer-wrapper h2 {
@@ -1057,7 +1054,7 @@ body {
 
 .partners-area {
   padding: 70px 0 50px;
-  background: #0a0a0a;
+  /* background: #0a0a0a; */
 }
 
 .partners-title h2 {
