@@ -1012,7 +1012,7 @@ body {
   position: relative;
 }
 footer {
-  padding: 20px 0;
+  /* padding: 20px 0; */
   background: rgba(10, 10, 10, 0.6);
   backdrop-filter: blur(12px);
   position: absolute;
