@@ -7,7 +7,7 @@ Medium Screen - Others
   .hero-area {
     background-repeat: no-repeat;
     background-position: bottom top center;
-    height: 850px;
+    height: 1160px;
     background-size: cover;
   }
 }
@@ -401,7 +401,7 @@ Small Screen - Mobile
   .batsy99 {
     margin-top: auto;
     position: absolute;
-    bottom: 100px;
+    bottom: 206px;
     right: -50px;
     width: 293px;
   }
@@ -412,7 +412,7 @@ Small Screen - Mobile
     background-size: 100% 100%;
     background-position: 100% 100%;
     position: absolute;
-    bottom: 158px;
+    bottom: 420px;
     left: 20px;
   }
   .follow-content h2 {
