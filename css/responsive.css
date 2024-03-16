@@ -112,7 +112,8 @@ Small Screen - Tablate
 
   .tokenomics-area {
     padding: 50px 0 26px;
-    background: #0a0a0a;
+    background: rgb(215,83,255);
+	background: linear-gradient(90deg, rgba(215,83,255,1) 0%, rgba(17,246,255,1) 100%);
   }
 
   .tokenomics-area {
@@ -306,7 +307,8 @@ Small Screen - Mobile
 
   .tokenomics-area {
     padding: 50px 0 26px;
-    background: #0a0a0a;
+    background: rgb(215,83,255);
+	background: linear-gradient(90deg, rgba(215,83,255,1) 0%, rgba(17,246,255,1) 100%);
   }
 
   .tokenomics-area {
