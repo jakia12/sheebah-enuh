@@ -984,6 +984,7 @@ nav {
   -webkit-text-fill-color: transparent;
   margin-bottom: 10px;
   padding-top: 20px;
+  margin-left: -1rem;
 }
 
 .follow-content ul {
