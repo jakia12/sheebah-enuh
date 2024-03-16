@@ -59,6 +59,11 @@ body {
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'Mansalva'; /* Font family name */
+  src: url('./fonts/Mansalva-Regular.ttf') format('truetype'); /* URL to the font file */
+}
+
 a,
 button {
   -o-transition: all 0.2s ease;
